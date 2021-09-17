@@ -1,4 +1,4 @@
-# Case-Study-on-Life-Expectancy 
+# Case Study on Life Expectancy 
 
 Explorarory Data Analysis is done on Life expectancy dataset.
 
