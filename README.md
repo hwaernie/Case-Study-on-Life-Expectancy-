@@ -1,6 +1,6 @@
 # Case Study on Life Expectancy 
 
-Explorarory Data Analysis is done on Life expectancy dataset.
+Exploratory Data Analysis is done on Life expectancy dataset by fitting independent variables in to linear regression models. A best fitted model is later determined by comparison. Prediction of Life expectancy is also carried out using a set of independent variables
 
 ### About the dataset 
 Source: https://kaggle.com/kumarajarshi/ life-expectancy-who 
